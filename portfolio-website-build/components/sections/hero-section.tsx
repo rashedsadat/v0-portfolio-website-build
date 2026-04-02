@@ -142,7 +142,7 @@ export function HeroSection() {
             {/* Greeting */}
             <div className="space-y-3">
               <p className="text-muted-foreground font-mono text-xl">
-                {">"} Hello, I&apos;m
+                {">"} Hello World, I&apos;m
               </p>
               <h1 className="text-balance" style={{ fontFamily: 'var(--font-display)' }}>
                 Md. Shahadat{" "}
